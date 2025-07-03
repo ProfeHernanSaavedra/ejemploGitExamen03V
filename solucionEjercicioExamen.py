@@ -73,7 +73,8 @@ while True:
                 print("Código no encontrado!!")
         elif opc == 4:
             print("Programa finalizado")
-            print(ventas)
+            #print(ventas)
+            print("NOS VEMOS")
             break
         else:
             print("Opción no válida!")

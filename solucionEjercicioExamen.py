@@ -75,6 +75,7 @@ while True:
             print("Programa finalizado")
             #print(ventas)
             print("NOS VEMOS")
+            print("AHORA SI")
             break
         else:
             print("Opción no válida!")
